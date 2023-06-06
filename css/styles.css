@@ -112,11 +112,11 @@ color: #2E2F42;
 
 .address {
 font-style: normal;
+margin-left: auto;
 }
 
 .header-address {
 display: flex;
-margin-left: auto;
 }
 
 .header-address {
