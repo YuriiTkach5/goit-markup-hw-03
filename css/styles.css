@@ -121,6 +121,8 @@ color: #404bbf;
 
 .address {
 font-style: normal;
+padding-top: 24px;
+padding-bottom: 24px;
 }
 
 .header-address {
@@ -128,8 +130,6 @@ display: flex;
 gap: 40px;
 padding-right: 15px;
 margin-left: auto;
-padding-top: 24px;
-padding-bottom: 24px;
 }
 
 .header-address {
