@@ -71,7 +71,8 @@ display: flex;
 .header-nav {
 display: flex;
 align-items: center;
-flex-grow: 1;
+flex-grow: 1px;
+justify-content: space-between;
 }
 
 .header-logo {
