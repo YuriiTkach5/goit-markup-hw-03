@@ -1,0 +1,265 @@
+
+:root {
+    --background-color: #FFFFFF;
+    --menu-text: #404BBF;
+    --text-h2-h3-p: #2E2F42;
+    --team-item-text: #434455;
+    --footer-text: #4d5ae5;
+    --btn-background: #F4F4FD;
+    --logo-color: #4d5ae5;
+}
+
+body {
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: var(--background-color);
+}
+
+.link {
+text-decoration: none;
+}
+
+.link:hover {
+color: #404bbf;
+}
+
+.link:focus {
+color: #404bbf;
+}
+
+.list {
+list-style: none;
+}
+
+/*--------- HEADER---------*/
+
+.header-logo {
+font-family: "Raleway", sans-serif;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5; 
+}
+
+.header-logo-color{
+color: #2E2F42;
+}
+
+.header-web-menu{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.header-web-menu:hover{
+ color: #404bbf;
+}
+
+.header-web-menu:focus {
+    color: #404bbf;
+}
+
+.address {
+font-style: normal;
+}
+
+.header-address {
+font-style: normal;
+}
+
+.header-address-item {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*--------- HOME---------*/
+
+.home {
+background-color: #2E2F42;
+}
+
+.home-title {
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.home-btn {
+font-family: "Roboto", sans-serif;
+background-color: #4D5AE5;;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+cursor: pointer;
+font-family: inherit;
+}
+
+.button-class {
+cursor: pointer;
+}
+
+.button-class:hover {
+background-color: #404BBF;
+}
+
+.button-class:focus {
+background-color: #404BBF;
+}
+
+/*---------stratech---------*/
+
+.stratech-subtitle {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: var(--text-h2-h3-p);
+}
+
+.stratech-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*---------What---------*/
+
+.what-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: var(--text-h2-h3-p);
+}
+
+/*---------team---------*/
+
+.team {
+background-color: #F4F4FD;
+}
+
+.team-main {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: var(--text-h2-h3-p);
+}
+
+.team-item {
+background-color: #FFFFFF;
+}
+
+.team-subtitle {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+text-align: center;
+letter-spacing: 0.02em;
+color: var(--text-h2-h3-p);
+}
+
+.team-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+text-align: center;
+letter-spacing: 0.02em;
+color: var(--team-item-text);
+}
+
+/*---------footer---------*/
+
+.footer{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--footer-text);
+background-color: #2e2f42;
+}
+
+.footer-logo {
+font-family: 'Raleway', sans-serif; 
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--logo-color);
+}
+
+.footer-logo-color {
+color: #F4F4FD;
+}
+
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: var(--btn-background);
+}
+
+/*---------portfolio-btn--------*/
+
+.btn-title{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #4D5AE5;
+font-family: "Roboto";
+background-color: var(--btn-background);
+cursor: pointer;
+font-family: inherit;
+}
+.btn-title:hover {
+color: #FFFFFF;
+background-color: #404BBF;
+
+}
+.btn-title:focus{
+color: #FFFFFF;
+background-color: #404BBF;
+}
+
+/*---------portfolio-desc--------*/
+
+.desk-item {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;}
+
+.desk-point {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+ color: #434455;
+}
