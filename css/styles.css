@@ -112,7 +112,7 @@ color: #2E2F42;
 
 .address {
 font-style: normal;
-margin-left: auto;
+max-width: 151;
 }
 
 .header-address {
