@@ -125,6 +125,8 @@ margin-left: 332px;
 
 .header-address {
 display: flex;
+gap: 40px;
+padding-right: 15px;
 }
 
 .header-address {
