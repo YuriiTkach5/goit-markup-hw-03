@@ -93,6 +93,7 @@ color: #2E2F42;
 .header-web-item {
 display: flex;
 margin-left: auto;
+gap: 40px;
 }
 
 .header-web-menu{
@@ -113,7 +114,10 @@ color: #404bbf;
 
 .address {
 font-style: normal;
-margin-right: 332;
+}
+
+.address-size {
+margin-left: 332px;
 }
 
 .header-address {
