@@ -127,13 +127,15 @@ font-style: normal;
 display: flex;
 gap: 40px;
 padding-right: 15px;
+margin-left: auto;
 padding-top: 24px;
 padding-bottom: 24px;
-margin-left: 332px;
 }
 
 .header-address {
 font-style: normal;
+padding-top: 24px;
+padding-bottom: 24px;
 }
 
 .header-address-item {
