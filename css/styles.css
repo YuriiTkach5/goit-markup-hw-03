@@ -104,15 +104,16 @@ color: #2E2F42;
 }
 
 .header-web-menu:hover{
- color: #404bbf;
+color: #404bbf;
 }
 
 .header-web-menu:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .address {
 font-style: normal;
+margin-right: 332;
 }
 
 .header-address {
