@@ -78,7 +78,7 @@ color: #4d5ae5;
 color: #2E2F42;
 }
 
-.header-web {
+.header-web-item {
 display: flex;
 }
 
@@ -100,6 +100,10 @@ color: #2E2F42;
 
 .address {
 font-style: normal;
+}
+
+.header-address {
+display: flex;
 }
 
 .header-address {
