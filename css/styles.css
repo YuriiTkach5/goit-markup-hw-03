@@ -91,6 +91,7 @@ color: #2E2F42;
 
 .header-web-item {
 display: flex;
+margin-left: auto;
 }
 
 .header-web-menu{
@@ -115,6 +116,7 @@ font-style: normal;
 
 .header-address {
 display: flex;
+margin-left: auto;
 }
 
 .header-address {
