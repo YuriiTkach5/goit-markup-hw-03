@@ -78,6 +78,9 @@ color: #4d5ae5;
 color: #2E2F42;
 }
 
+.header-web {
+display: flex;
+}
 
 .header-web-menu{
 font-weight: 500;
@@ -101,10 +104,6 @@ font-style: normal;
 
 .header-address {
 font-style: normal;
-}
-
-.header-address {
-display: flex;
 }
 
 .header-address-item {
