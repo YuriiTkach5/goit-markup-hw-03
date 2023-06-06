@@ -151,6 +151,11 @@ padding: 24px 0;
 background-color: #2E2F42;
 }
 
+.home-container {
+background: #2E2F42;
+padding: 188px 472px 472px 292px;
+}
+
 .home-title {
 font-family: "Roboto", sans-serif;
 font-weight: 700;
