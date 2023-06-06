@@ -17,6 +17,14 @@ background-color: var(--background-color);
 width: auto;
 }
 
+.a {
+text-decoration: none;
+}
+
+.ul {
+list-style-type: none;
+}
+
 .link {
 text-decoration: none;
 }
