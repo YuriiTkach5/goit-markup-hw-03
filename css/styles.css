@@ -64,6 +64,10 @@ padding-top: 24px;
 padding-bottom: 24px;
 }
 
+.header-container {
+display: flex;
+}
+
 .header-nav {
 display: flex;
 align-items: center;
