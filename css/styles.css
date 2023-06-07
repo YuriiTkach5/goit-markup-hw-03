@@ -170,6 +170,8 @@ margin-bottom: 48px;
 }
 
 .home-btn {
+min-width: 105px;
+height: 24px;
 font-family: "Roboto", sans-serif;
 background-color: #4D5AE5;;
 font-weight: 500;
