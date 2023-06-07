@@ -296,12 +296,6 @@ letter-spacing: 0.02em;
 color: var(--btn-background);
 }
 
-/*---------container-portfolio--------*/
-
-.container-portfolio {
-display: flex;
-}
-
 /*---------portfolio-btn--------*/
 
 .btn-title{
