@@ -218,6 +218,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: var(--text-h2-h3-p);
+margin-bottom: 8px;
 }
 
 .stratech-item-text {
