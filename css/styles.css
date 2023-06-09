@@ -203,8 +203,12 @@ background-color: #404BBF;
 /*---------stratech---------*/
 
 .container-stratech {
+}
+
+.stratech-list {
 display: flex;
-padding-bottom: 120px;
+margin-top: 120px;
+gap: 24px;
 }
 
 .stratech-subtitle {
@@ -221,6 +225,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+padding-bottom: 120px;
 }
 
 /*---------What---------*/
