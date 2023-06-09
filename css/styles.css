@@ -203,6 +203,7 @@ background-color: #404BBF;
 /*---------stratech---------*/
 
 .container-stratech {
+display: flex;
 padding-bottom: 120px;
 }
 
