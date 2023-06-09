@@ -272,6 +272,10 @@ color: var(--text-h2-h3-p);
 background-color: #FFFFFF;
 }
 
+.container-mark {
+margin-top: 32px;
+}
+
 .team-subtitle {
 font-weight: 500;
 font-size: 20px;
