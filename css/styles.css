@@ -203,7 +203,7 @@ background-color: #404BBF;
 /*---------stratech---------*/
 
 .container-stratech {
-width: calc((100% - 72px) /4);
+
 }
 
 .stratech-list {
@@ -219,7 +219,6 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: var(--text-h2-h3-p);
 margin-bottom: 8px;
-width: calc((100% - 72px) / 4);
 }
 
 .stratech-item-text {
