@@ -203,6 +203,7 @@ background-color: #404BBF;
 /*---------stratech---------*/
 
 .container-stratech {
+width: calc((100% - 72px) /4);
 }
 
 .stratech-list {
