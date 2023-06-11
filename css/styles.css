@@ -351,6 +351,10 @@ padding-top: 96px;
 padding-bottom: 120px;
 }
 
+.container-portfolio {
+border: 1px solid #e7e9fc;
+}
+
 .applications-item {
 border: 1px solid #e7e9fc;
 }
