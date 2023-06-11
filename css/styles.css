@@ -164,11 +164,12 @@ padding: 24px 0;
 
 .home {
 background-color: #2E2F42;
+padding-top: 188px;
+padding-bottom: 188px;
 }
 
 .home-container {
 background: #2E2F42;
-padding: 188px;
 }
 
 .home-title {
