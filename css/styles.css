@@ -330,12 +330,6 @@ letter-spacing: 0.02em;
 color: var(--btn-background);
 }
 
-/*---------header-portfolio--------*/
-
-.header-portfolio-cantainer {
-display: flex;
-}
-
 /*---------portfolio-btn--------*/
 
 .container-portfolio {
@@ -348,6 +342,11 @@ gap: 24px;
 padding-left: 427px;
 padding-right: 427px;
 margin-bottom: 72px;
+}
+
+.container-line {
+display: flex;
+gap: 24px;
 }
 
 
