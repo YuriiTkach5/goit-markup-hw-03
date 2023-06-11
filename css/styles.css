@@ -147,8 +147,7 @@ margin-left: 332px;
 
 .header-address {
 font-style: normal;
-padding-top: 24px;
-padding-bottom: 24px;
+padding: 24px 0;
 }
 
 .header-address-item {
@@ -157,7 +156,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-padding: 24px 0;
 }
 
 /*--------- HOME---------*/
