@@ -310,6 +310,11 @@ margin-bottom: 72px;
 background-color: #FFFFFF;
 }
 
+.container-team {
+padding: 32px 16px;
+}
+
+
 .container-mark {
 margin-top: 32px;
 }
