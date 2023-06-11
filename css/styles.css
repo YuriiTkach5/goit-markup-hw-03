@@ -340,14 +340,14 @@ color: var(--team-item-text);
 /*---------footer---------*/
 
 .footer{
-font-family: 'Raleway';
+/* font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: var(--footer-text);
+color: var(--footer-text); */
 background-color: #2e2f42;
 }
 
