@@ -181,6 +181,10 @@ letter-spacing: 0.02em;
 color: #FFFFFF;
 max-width: 496px;
 margin-bottom: 48px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+    
 }
 
 .home-btn {
@@ -196,6 +200,8 @@ letter-spacing: 0.04em;
 color: #FFFFFF;
 cursor: pointer;
 font-family: inherit;
+margin-left: auto;
+margin-right: auto;
 }
 
 .button-class {
