@@ -343,6 +343,7 @@ color: var(--team-item-text);
 
 .footer{
 background-color: #2e2f42;
+padding: 100px 0;
 }
 
 .footer-logo {
@@ -358,6 +359,8 @@ color: var(--logo-color);
 
 .footer-logo-color {
 color: #F4F4FD;
+display: inline-block;
+margin-bottom: 16px;
 }
 
 .footer-text {
