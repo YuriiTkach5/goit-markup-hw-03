@@ -35,6 +35,7 @@ padding-left: 0;
 
 .link {
 text-decoration: none;
+display: block;
 }
 
 .link:hover {
