@@ -358,8 +358,6 @@ border: 1px solid #e7e9fc;
 .icon {
 display: flex;
 gap: 24px;
-padding-left: 427px;
-padding-right: 427px;
 margin-bottom: 72px;
 justify-content: center;
 }
