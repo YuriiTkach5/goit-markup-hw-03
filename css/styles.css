@@ -224,6 +224,11 @@ background-color: #404BBF;
 
 /*---------stratech---------*/
 
+.stratech{
+padding-top: 120px;
+padding-bottom: 120px;
+}
+
 .stratech-list {
 display: flex;
 margin-top: 120px;
