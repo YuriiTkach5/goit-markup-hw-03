@@ -332,13 +332,6 @@ color: var(--btn-background);
 
 /*---------portfolio-btn--------*/
 
-.container-btn {
-display: flex;
-}
-
-.container-line {
-display: flex;
-}
 
 .btn-title{
 font-weight: 500;
@@ -351,6 +344,7 @@ background-color: var(--btn-background);
 cursor: pointer;
 font-family: inherit;
 }
+
 .btn-title:hover {
 color: #FFFFFF;
 background-color: #404BBF;
