@@ -359,8 +359,11 @@ color: var(--logo-color);
 
 .footer-logo-color {
 color: #F4F4FD;
+
+}
+.footer-item {
 display: inline-block;
-margin-bottom: 16px;
+ margin-bottom: 16px;
 }
 
 .footer-text {
