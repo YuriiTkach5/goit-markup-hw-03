@@ -277,7 +277,8 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--text-h2-h3-p);
-padding-bottom: 72px;
+/* padding-bottom: 72px; */
+margin-bottom: 72px;
 }
 
 /*---------team---------*/
