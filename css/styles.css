@@ -378,11 +378,13 @@ padding: 12px 24px 12px 24px;
 .btn-title:hover {
 color: #FFFFFF;
 background-color: #404BBF;
-
+border: 1px solid transparent;
 }
+
 .btn-title:focus{
 color: #FFFFFF;
 background-color: #404BBF;
+border: 1px solid transparent;
 }
 
 /*---------portfolio-desc--------*/
