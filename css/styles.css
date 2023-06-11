@@ -332,6 +332,15 @@ color: var(--btn-background);
 
 /*---------portfolio-btn--------*/
 
+.container-portfolio {
+padding-top: ;
+padding-bottom: 120px;
+}
+
+.container-btn {
+display: flex;
+}
+
 
 .btn-title{
 font-weight: 500;
