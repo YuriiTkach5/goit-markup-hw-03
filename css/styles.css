@@ -354,6 +354,10 @@ font-family: "Roboto";
 background-color: var(--btn-background);
 cursor: pointer;
 font-family: inherit;
+border: 1px solid #e7e9fc;
+border-radius: 4px;
+display: block;
+padding: 12px 24px 12px 24px;
 }
 
 .btn-title:hover {
