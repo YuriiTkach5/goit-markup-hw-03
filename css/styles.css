@@ -346,9 +346,11 @@ height: 1px;
 overflow: hidden;
 }
 
-/* .container-portfolio {
+.container-portfolio {
+padding: 32px 16px;
 padding-bottom: 120px;
-} */
+border: 1px solid #e7e9fc;
+} 
 
 .icon {
 display: flex;
@@ -418,4 +420,5 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
  color: #434455;
+margin-bottom: 8px;
 }
