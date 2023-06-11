@@ -85,7 +85,6 @@ border-bottom: 1px solid #e7e9fc;
 
 .header-container {
 display: flex;
-padding: 24px 0;
 }
 
 .header-nav {
@@ -164,8 +163,6 @@ padding: 24px 0;
 
 .home {
 background-color: #2E2F42;
-padding: 180px 0;
-justify-content: center;
 }
 
 .home-container {
