@@ -333,6 +333,11 @@ color: var(--btn-background);
 
 /*---------portfolio-btn--------*/
 
+.portfolio {
+padding-top: 96px;
+padding-bottom: 120px;
+}
+
 .container-portfolio {
 padding-bottom: 120px;
 }
