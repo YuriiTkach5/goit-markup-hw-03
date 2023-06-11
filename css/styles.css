@@ -259,6 +259,10 @@ padding-bottom: 120px;
 
 /*---------What---------*/
 
+.what {
+padding-bottom: 120px;
+}
+
 .what-img {
 display: flex;
 gap: 24px;
