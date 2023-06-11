@@ -33,6 +33,14 @@ margin-bottom: 0;
 padding-left: 0;
 }
 
+.visually-hidden {
+position: absolute;
+left: -9999px;
+width: 1px;
+height: 1px;
+overflow: hidden;
+}
+
 .link {
 text-decoration: none;
 display: block;
@@ -336,14 +344,6 @@ color: var(--btn-background);
 .portfolio {
 padding-top: 96px;
 padding-bottom: 120px;
-}
-
-.visually-hidden {
-position: absolute;
-left: -9999px;
-width: 1px;
-height: 1px;
-overflow: hidden;
 }
 
 .container-portfolio {
