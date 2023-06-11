@@ -351,13 +351,14 @@ padding-top: 96px;
 padding-bottom: 120px;
 }
 
-.container-portfolio {
+/* .container-portfolio {
 border: 1px solid #e7e9fc;
 border-top: none;
-}
+} */
 
 .applications-item {
 border: 1px solid #e7e9fc;
+border-top: none;
 }
 
 .icon {
