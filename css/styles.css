@@ -374,13 +374,12 @@ background-color: #404BBF;
 /*---------portfolio-desc--------*/
 
 .applications {
-display: 'flex';
-flex-wrap: 'wrap';
-flex-direction: 'row';
-justify-content: 'center';
-padding: '0px';
-gap: '24px';
-row-gap: '48px';
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: center;
+gap: 24px;
+row-gap: 48px;
 }
 
 .desk-item {
