@@ -368,6 +368,10 @@ background-color: #404BBF;
 
 /*---------portfolio-desc--------*/
 
+.desk {
+width: calc((100%-24px*2)/3);
+}
+
 .desk-item {
 font-weight: 500;
 font-size: 20px;
