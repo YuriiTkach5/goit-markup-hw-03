@@ -330,6 +330,12 @@ letter-spacing: 0.02em;
 color: var(--btn-background);
 }
 
+/*---------header-portfolio--------*/
+
+.header-portfolio-cantainer {
+display: flex;
+}
+
 /*---------portfolio-btn--------*/
 
 .container-portfolio {
