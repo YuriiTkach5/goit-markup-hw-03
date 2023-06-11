@@ -282,6 +282,10 @@ margin-bottom: 72px;
 
 /*---------team---------*/
 
+.team {
+padding: 120px 0;
+}
+
 .container-list {
 display: flex;
 gap: 24px;
