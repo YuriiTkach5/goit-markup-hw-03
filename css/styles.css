@@ -349,6 +349,8 @@ color: var(--btn-background);
 .portfolio {
 padding-top: 96px;
 padding-bottom: 120px;
+margin-right: auto;
+margin-left: auto;
 }
 
 /* .container-portfolio {
@@ -359,6 +361,7 @@ border-top: none;
 .applications-item {
 border: 1px solid #e7e9fc;
 border-top: none;
+width: calc((100% - 48px) / 3);
 }
 
 .icon {
@@ -403,6 +406,7 @@ display: flex;
 flex-wrap: wrap;
 flex-direction: row;
 justify-content: center;
+padding: 0px;
 gap: 24px;
 row-gap: 48px;
 }
