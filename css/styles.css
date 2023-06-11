@@ -233,11 +233,10 @@ padding-bottom: 120px;
 display: flex;
 margin-top: 120px;
 gap: 24px;
-}
-
-.stratech-item {
 width: calc((100%-72px)/4);
 }
+
+/* .stratech-item { */
 
 .stratech-subtitle {
 font-weight: 500;
