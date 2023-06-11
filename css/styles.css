@@ -344,6 +344,10 @@ padding-right: 427px;
 margin-bottom: 72px;
 }
 
+.first-line {
+display: flex;
+}
+
 .btn-title{
 font-weight: 500;
 font-size: 16px;
