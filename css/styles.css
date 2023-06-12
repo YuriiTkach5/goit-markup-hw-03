@@ -78,8 +78,6 @@ display: block;
 /*--------- HEADER---------*/
 
 .header {
-padding-top: 24px;
-padding-bottom: 24px;
 border-bottom: 1px solid #e7e9fc;
 }
 
@@ -105,6 +103,7 @@ color: #4d5ae5;
 display: flex;
 align-items: center;
 margin-right: 76px;
+padding: 24px 0;
 }
 
 .header-logo-color{
